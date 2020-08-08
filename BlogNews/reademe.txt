@@ -1,0 +1,2 @@
+使用scrapy 存储数据到MySQL 
+解决 数据重复  在pipeline.py文件中  使用深拷贝
